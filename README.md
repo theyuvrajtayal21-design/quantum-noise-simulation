@@ -1,5 +1,5 @@
-Quantum Noise Simulation
-Comparative Analysis of Single-Qubit Noise Channels Using Python
+##Quantum Noise Simulation
+ #Analysis of Single-Qubit Noise Channels Using Python
 
 An educational numerical simulation comparing how three idealized quantum noise channels affect a single qubit. The experiment prepares the |+⟩ state and measures fidelity, l1 coherence, and probability of measuring |0⟩ after applying depolarizing, phase-damping, and amplitude-damping channels.
 Scope: This is a single-qubit mathematical simulation, not an experiment on quantum hardware. Equal numerical channel parameters do not necessarily represent equivalent physical noise strengths.
